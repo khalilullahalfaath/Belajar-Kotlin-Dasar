@@ -1,3 +1,4 @@
+// konstan: variable global
 const val APP = "Belajar Kotlin"
 
 fun main() {
@@ -15,6 +16,8 @@ fun main() {
     var name: String? = null
     println(name)
     println(name?.length)
-
+    name = "Khalil"
+    println(name)
+    println(name?.length)
     println(APP)
 }
