@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f9ec49-b210-4d03-8221-833edff8a253" name="Changes" comment="halo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiMatematika.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +45,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.OperasiMatematikaKt">
+  <component name="RunManager" selected="Kotlin.OperasiBooleanKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperasiBooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBooleanKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperasiPerbandinganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiPerbandinganKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RangeKt" />
       <module name="belajar-kotlin-dasar" />
@@ -69,27 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperasiBooleanKt" />
+        <item itemvalue="Kotlin.OperasiPerbandinganKt" />
         <item itemvalue="Kotlin.OperasiMatematikaKt" />
         <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.VariableKt" />
-        <item itemvalue="Kotlin.StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668235539467</updated>
     </task>
+    <task id="LOCAL-00001" summary="halo">
+      <created>1675000223715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675000223715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
