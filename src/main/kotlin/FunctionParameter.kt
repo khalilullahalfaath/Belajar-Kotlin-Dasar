@@ -10,6 +10,7 @@ fun sayHello(firstName: String, lastName:String?){
 
 fun main() {
     // wajib dimasukkan di parameternya
+    // walaupun kosong
     sayHello("Khalilullah","Al Faath")
     sayHello("Budi",null)
 }
