@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f9ec49-b210-4d03-8221-833edff8a253" name="Changes" comment="halo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" afterDir="false" />
+    <list default="true" id="31f9ec49-b210-4d03-8221-833edff8a253" name="Changes" comment="add new content">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionParameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,37 +51,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.OperasiBooleanKt">
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+  <component name="RunManager" selected="Kotlin.FunctionParameterKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiBooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiBooleanKt" />
+    <configuration name="DoWhileLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoopsKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiMatematikaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiMatematikaKt" />
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiPerbandinganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiPerbandinganKt" />
+    <configuration name="FunctionParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionParameterKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangeKt" />
+    <configuration name="WhileLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoopsKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.OperasiBooleanKt" />
-        <item itemvalue="Kotlin.OperasiPerbandinganKt" />
-        <item itemvalue="Kotlin.OperasiMatematikaKt" />
-        <item itemvalue="Kotlin.RangeKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.FunctionParameterKt" />
+        <item itemvalue="Kotlin.FunctionKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
+        <item itemvalue="Kotlin.DoWhileLoopsKt" />
+        <item itemvalue="Kotlin.WhileLoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675000223715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new content">
+      <created>1675001289228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675001289228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="halo" />
-    <option name="LAST_COMMIT_MESSAGE" value="halo" />
+    <MESSAGE value="add new content" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
