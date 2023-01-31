@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f9ec49-b210-4d03-8221-833edff8a253" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionInfixNotation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionScope.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnIfAndWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TailRecursiveFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnonymousFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Closure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InlineFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Komentar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Label.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainParameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Package.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/khalil/belajar/util/StringUtil.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,49 +53,58 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TailRecursiveFunctionKt">
-    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtensionFunctionKt" />
+  <component name="RunManager" selected="Kotlin.KomentarKt">
+    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InlineFunctionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionInfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionInfixNotationKt" />
+    <configuration name="KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KomentarKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunctionKt" />
+    <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnIfAndWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnIfAndWhenKt" />
+    <configuration name="MainParametersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainParametersKt" />
+      <module name="belajar-kotlin-dasar" />
+      <option name="PROGRAM_PARAMETERS" value="haloo khalilullah al faath" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackageKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TailRecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TailRecursiveFunctionKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Kotlin.KomentarKt" />
+      <item itemvalue="Kotlin.InlineFunctionKt" />
+      <item itemvalue="Kotlin.LabelKt" />
+      <item itemvalue="Kotlin.MainParametersKt" />
+      <item itemvalue="Kotlin.PackageKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TailRecursiveFunctionKt" />
-        <item itemvalue="Kotlin.RecursiveFunctionKt" />
-        <item itemvalue="Kotlin.ReturnIfAndWhenKt" />
-        <item itemvalue="Kotlin.FunctionInfixNotationKt" />
-        <item itemvalue="Kotlin.ExtensionFunctionKt" />
+        <item itemvalue="Kotlin.KomentarKt" />
+        <item itemvalue="Kotlin.MainParametersKt" />
+        <item itemvalue="Kotlin.PackageKt" />
+        <item itemvalue="Kotlin.LabelKt" />
+        <item itemvalue="Kotlin.InlineFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675077766062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1675126863555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675126863555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
